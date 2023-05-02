@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="site" table="x_415789_visitor_r_visitor_requests" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>site</element>
+            <name>x_415789_visitor_r_visitor_requests</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-02 13:10:03</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>site</sys_name>
+            <sys_package display_value="Visitor Request" source="x_415789_visitor_r">aad62dfd97266110a80a36d11153af14</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Visitor Request">aad62dfd97266110a80a36d11153af14</sys_scope>
+            <sys_update_name>sys_choice_x_415789_visitor_r_visitor_requests_site</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-02 13:10:03</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>site</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ALC</label>
+            <language>en</language>
+            <name>x_415789_visitor_r_visitor_requests</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-02 13:10:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b67da1f597666110a80a36d11153af5c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-02 13:10:03</sys_updated_on>
+            <value>alc</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>site</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>APG</label>
+            <language>en</language>
+            <name>x_415789_visitor_r_visitor_requests</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-02 13:10:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>327da1f597666110a80a36d11153af5e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-02 13:10:03</sys_updated_on>
+            <value>apg</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>site</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ARL Central</label>
+            <language>en</language>
+            <name>x_415789_visitor_r_visitor_requests</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-02 13:10:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>be7da1f597666110a80a36d11153af5e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-02 13:10:03</sys_updated_on>
+            <value>arl_central</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>site</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ARL Northeast</label>
+            <language>en</language>
+            <name>x_415789_visitor_r_visitor_requests</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-02 13:10:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3e7da1f597666110a80a36d11153af5f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-02 13:10:03</sys_updated_on>
+            <value>arl_northeast</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>site</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ARL South</label>
+            <language>en</language>
+            <name>x_415789_visitor_r_visitor_requests</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-02 13:10:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ba7da1f597666110a80a36d11153af60</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-02 13:10:03</sys_updated_on>
+            <value>arl_south</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>site</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ARL West</label>
+            <language>en</language>
+            <name>x_415789_visitor_r_visitor_requests</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-02 13:10:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fe7da1f597666110a80a36d11153af6d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-02 13:10:03</sys_updated_on>
+            <value>arl_west</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>site</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ARO</label>
+            <language>en</language>
+            <name>x_415789_visitor_r_visitor_requests</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-02 13:10:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fe7da1f597666110a80a36d11153af6e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-02 13:22:32</sys_updated_on>
+            <value>aro</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

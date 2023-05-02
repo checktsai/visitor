@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="59f7617197666110a80a36d11153afbe" label="Visitor Requests" max_length="40" name="x_415789_visitor_r_visitor_requests" type="collection">
+        <element default="true" label="Active" max_length="40" name="active" type="string"/>
+        <element label="Attendees" max_length="40" name="attendees" reference="sys_user" type="glide_list"/>
+        <element default="javascript:gs.now();" dynamic_default_value="fb7553e85f220100a9ad2572f2b477b4" label="First Date of Visit" mandatory="true" max_length="40" name="first_date_of_visit" type="glide_date" use_dynamic_default="true"/>
+        <element default="javascript:gs.now();" dynamic_default_value="fb7553e85f220100a9ad2572f2b477b4" label="Last Date of Visit " mandatory="true" max_length="40" name="last_date_of_visit" type="glide_date" use_dynamic_default="true"/>
+        <element label="Legacy Visit Date" max_length="40" name="legacy_visit_date" type="glide_date"/>
+        <element label="Mandatory Comment" max_length="255" name="mandatory_comment" type="string"/>
+        <element choice="3" label="OVERALL ACCESS LEVEL FOR THE EVENT" mandatory="true" max_length="40" name="overall_access_level_for_the_event" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="UNCLAS" sequence="0" value="unclas"/>
+                <element inactive_on_update="false" label="SECRET" sequence="1" value="secret"/>
+                <element inactive_on_update="false" label="TS" sequence="2" value="ts"/>
+                <element inactive_on_update="false" label="SCI" sequence="3" value="sci"/>
+            </choice>
+        </element>
+        <element label="POC EMail" mandatory="true" max_length="40" name="poc_email" type="string"/>
+        <element label="POC NAME" mandatory="true" max_length="255" name="poc_name" type="string"/>
+        <element label="POC PHONE" mandatory="true" max_length="40" name="poc_phone" type="string"/>
+        <element choice="3" label="REASON FOR VISIT" mandatory="true" max_length="40" name="reason_for_visit" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Inspection" sequence="0" value="inspection"/>
+                <element inactive_on_update="false" label="Meeting" sequence="1" value="meeting"/>
+                <element inactive_on_update="false" label="Planning Conference" sequence="2" value="planning_conference"/>
+                <element inactive_on_update="false" label="Seminar" sequence="3" value="seminar"/>
+                <element inactive_on_update="false" label="Symposium" sequence="4" value="symposium"/>
+                <element inactive_on_update="false" label="TDY" sequence="5" value="tdy"/>
+                <element inactive_on_update="false" label="Training" sequence="6" value="training"/>
+                <element inactive_on_update="false" label="Other" sequence="7" value="other"/>
+            </choice>
+        </element>
+        <element label="Remarks" max_length="255" name="remarks" type="string"/>
+        <element label="Requestor" max_length="32" name="requestor" reference="sys_user" type="reference"/>
+        <element label="Requestor Email" max_length="40" name="requestor_email" type="string"/>
+        <element choice="3" label="Site" mandatory="true" max_length="40" name="site" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="ALC" sequence="0" value="alc"/>
+                <element inactive_on_update="false" label="APG" sequence="1" value="apg"/>
+                <element inactive_on_update="false" label="ARL Central" sequence="2" value="arl_central"/>
+                <element inactive_on_update="false" label="ARL Northeast" sequence="3" value="arl_northeast"/>
+                <element inactive_on_update="false" label="ARL South" sequence="4" value="arl_south"/>
+                <element inactive_on_update="false" label="ARL West" sequence="5" value="arl_west"/>
+                <element inactive_on_update="false" label="ARO" sequence="6" value="aro"/>
+            </choice>
+        </element>
+        <element label="SMO CODE" mandatory="true" max_length="80" name="smo_code" type="string"/>
+        <element choice="3" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Awaiting Processing" sequence="0" value="awaiting_processing"/>
+                <element inactive_on_update="false" label="Processed" sequence="1" value="processed"/>
+                <element inactive_on_update="false" label="Pending Update" sequence="2" value="pending_update"/>
+                <element inactive_on_update="false" label="Rejected" sequence="3" value="rejected"/>
+            </choice>
+        </element>
+        <element label="Visit Name" mandatory="true" max_length="255" name="visit_name" type="string"/>
+        <index name="index">
+            <element name="requestor"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="attendees" label="Attendees" language="en" table="x_415789_visitor_r_visitor_requests">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>attendees</element>
+            <help/>
+            <hint/>
+            <label>Attendees</label>
+            <language>en</language>
+            <name>x_415789_visitor_r_visitor_requests</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-02 13:11:32</sys_created_on>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_name>Attendees</sys_name>
+            <sys_package display_value="Visitor Request" source="x_415789_visitor_r">aad62dfd97266110a80a36d11153af14</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Visitor Request">aad62dfd97266110a80a36d11153af14</sys_scope>
+            <sys_update_name>sys_documentation_x_415789_visitor_r_visitor_requests_attendees_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-02 13:17:01</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

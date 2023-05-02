@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="reason_for_visit" table="x_415789_visitor_r_visitor_requests" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>reason_for_visit</element>
+            <name>x_415789_visitor_r_visitor_requests</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-02 13:07:36</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>reason_for_visit</sys_name>
+            <sys_package display_value="Visitor Request" source="x_415789_visitor_r">aad62dfd97266110a80a36d11153af14</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Visitor Request">aad62dfd97266110a80a36d11153af14</sys_scope>
+            <sys_update_name>sys_choice_x_415789_visitor_r_visitor_requests_reason_for_visit</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-02 13:07:36</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reason_for_visit</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Inspection</label>
+            <language>en</language>
+            <name>x_415789_visitor_r_visitor_requests</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-02 13:07:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0fec29b597666110a80a36d11153afee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-02 13:07:36</sys_updated_on>
+            <value>inspection</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reason_for_visit</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Meeting</label>
+            <language>en</language>
+            <name>x_415789_visitor_r_visitor_requests</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-02 13:07:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4fec29b597666110a80a36d11153aff0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-02 13:07:36</sys_updated_on>
+            <value>meeting</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reason_for_visit</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Planning Conference</label>
+            <language>en</language>
+            <name>x_415789_visitor_r_visitor_requests</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-02 13:07:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cbec29b597666110a80a36d11153aff1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-02 13:07:36</sys_updated_on>
+            <value>planning_conference</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reason_for_visit</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Seminar</label>
+            <language>en</language>
+            <name>x_415789_visitor_r_visitor_requests</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-02 13:07:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4bec29b597666110a80a36d11153aff2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-02 13:07:36</sys_updated_on>
+            <value>seminar</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reason_for_visit</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Symposium</label>
+            <language>en</language>
+            <name>x_415789_visitor_r_visitor_requests</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-02 13:07:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c7ec29b597666110a80a36d11153aff3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-02 13:07:36</sys_updated_on>
+            <value>symposium</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reason_for_visit</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TDY</label>
+            <language>en</language>
+            <name>x_415789_visitor_r_visitor_requests</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-02 13:07:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0fec69b597666110a80a36d11153af00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-02 13:07:36</sys_updated_on>
+            <value>tdy</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reason_for_visit</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Training</label>
+            <language>en</language>
+            <name>x_415789_visitor_r_visitor_requests</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-02 13:07:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8bec69b597666110a80a36d11153af01</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-02 13:07:36</sys_updated_on>
+            <value>training</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>reason_for_visit</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_415789_visitor_r_visitor_requests</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-02 13:07:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0bec69b597666110a80a36d11153af02</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-02 13:07:36</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

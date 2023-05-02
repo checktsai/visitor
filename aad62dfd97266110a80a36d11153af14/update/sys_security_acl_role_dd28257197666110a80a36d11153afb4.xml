@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-02 12:46:45</sys_created_on>
+        <sys_id>dd28257197666110a80a36d11153afb4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_415789_visitor_r_visitor_requests.x_415789_visitor_r.visitor_requests_user</sys_name>
+        <sys_package display_value="Visitor Request" source="x_415789_visitor_r">aad62dfd97266110a80a36d11153af14</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitor Request">aad62dfd97266110a80a36d11153af14</sys_scope>
+        <sys_security_acl display_value="x_415789_visitor_r_visitor_requests">d528257197666110a80a36d11153afb2</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_dd28257197666110a80a36d11153afb4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-02 12:46:45</sys_updated_on>
+        <sys_user_role display_value="x_415789_visitor_r.visitor_requests_user" name="x_415789_visitor_r.visitor_requests_user">1528617197666110a80a36d11153afef</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

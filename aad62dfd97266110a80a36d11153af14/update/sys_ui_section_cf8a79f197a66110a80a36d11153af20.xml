@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="POC" section_id="cf8a79f197a66110a80a36d11153af20" sys_domain="global" table="x_415789_visitor_r_visitor_requests" version="3" view="new_request">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>poc_name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-02 14:13:34</sys_created_on>
+            <sys_id>950cb17597a66110a80a36d11153afd0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="POC" display_value="POC" name="x_415789_visitor_r_visitor_requests" sys_domain="global" view="7810db6a0a0a0b3440d2382eb2207a4f">cf8a79f197a66110a80a36d11153af20</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-02 14:13:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>poc_email</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-02 14:13:34</sys_created_on>
+            <sys_id>990cb17597a66110a80a36d11153afd0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="POC" display_value="POC" name="x_415789_visitor_r_visitor_requests" sys_domain="global" view="7810db6a0a0a0b3440d2382eb2207a4f">cf8a79f197a66110a80a36d11153af20</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-02 14:13:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>poc_phone</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-02 14:13:34</sys_created_on>
+            <sys_id>9d0cb17597a66110a80a36d11153afd0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="POC" display_value="POC" name="x_415789_visitor_r_visitor_requests" sys_domain="global" view="7810db6a0a0a0b3440d2382eb2207a4f">cf8a79f197a66110a80a36d11153af20</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-02 14:13:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requestor</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-02 14:13:34</sys_created_on>
+            <sys_id>910cb17597a66110a80a36d11153afd1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="POC" display_value="POC" name="x_415789_visitor_r_visitor_requests" sys_domain="global" view="7810db6a0a0a0b3440d2382eb2207a4f">cf8a79f197a66110a80a36d11153af20</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-02 14:13:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requestor_email</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-02 14:13:34</sys_created_on>
+            <sys_id>950cb17597a66110a80a36d11153afd1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="POC" display_value="POC" name="x_415789_visitor_r_visitor_requests" sys_domain="global" view="7810db6a0a0a0b3440d2382eb2207a4f">cf8a79f197a66110a80a36d11153af20</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-02 14:13:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>POC</caption>
+            <header>false</header>
+            <name>x_415789_visitor_r_visitor_requests</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-02 14:07:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cf8a79f197a66110a80a36d11153af20</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_415789_visitor_r_visitor_requests</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Visitor Request" source="x_415789_visitor_r">aad62dfd97266110a80a36d11153af14</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Visitor Request">aad62dfd97266110a80a36d11153af14</sys_scope>
+            <sys_update_name>sys_ui_section_cf8a79f197a66110a80a36d11153af20</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-02 14:07:09</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="new_request" name="new_request">7810db6a0a0a0b3440d2382eb2207a4f</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
